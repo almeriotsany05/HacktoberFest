@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="3" width="1000">
+        <thead>
+            <tr>
+                <th rowspan="2">No</th>
+                <th rowspan="2">Foto</th>
+                <th rowspan="2">Nama</th>
+                <th rowspan="2">Nis</th>
+                <th colspan="4">Nilai</th>
+                <th rowspan="2">Hobby</th>
+            </tr>
+            <tr>
+                <th>Matematika</th>
+                <th>B.Indo</th>
+                <th>IPS</th>
+                <th>IPA</th>
+            </tr>
+            
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><img src="https://idn.sch.id/wp-content/uploads/2021/01/new-idn.png" alt="Sekolah IDN"></td>
+                <td>agung</td>
+                <td>4930049</td>
+                <td>50</td>
+                <td>100</td>
+                <td>90</td>
+                <td>100</td>
+                <td>
+                    <ol type="i">
+                        <li>Belajar</li>
+                        <li>Main Game</li>
+                        <li>Masak</li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><img src="https://idn.sch.id/wp-content/uploads/2021/01/new-idn.png" alt="Sekolah IDN"></td>
+                <td>saleh</td>
+                <td>4930049</td>
+                <td>80</td>
+                <td>100</td>
+                <td>90</td>
+                <td>100</td>
+                <td>
+                    <ul>
+                        <li>Tidur</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">total nilai</td>
+                <td colspan="1">130</td>
+                <td colspan="1">200</td>
+                <td colspan="">180</td>
+                <td colspan="">200</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
